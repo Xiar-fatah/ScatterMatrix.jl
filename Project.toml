@@ -1,0 +1,13 @@
+name = "ScatterMatrix"
+uuid = "0e891a2e-9779-4875-8a4c-7f1378db055b"
+authors = ["Kiar Fatah"]
+version = "0.1.0"
+
+[compat]
+julia = "1.7.1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
